@@ -7,3 +7,7 @@
 ### SCALER-day19
 ### Work with GitHub Codespace for this repository
 + Made Changes for Challenge19
+
+### SCALER-day20
+### Performed Action for GitHub Actions
++ Add lint.yml & Hello.js file
