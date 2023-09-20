@@ -1,1 +1,1 @@
-conconsole.log("Hello Github Lint code base")
+console.log("Hello Github")
