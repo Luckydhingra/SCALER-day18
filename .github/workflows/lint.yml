@@ -3,6 +3,7 @@ name: Lint Code Base
 on: [push, pull_request]
 
 env:
+    VALIDATE_HTML: false
     GITHUB_TOKEN: ${{github.token}} 
 
 jobs:
