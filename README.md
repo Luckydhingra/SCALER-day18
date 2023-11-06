@@ -11,4 +11,4 @@
 + Add lint.yml & Hello.js file
 ## SCALER-day23
 ### Deploy static file on GitHub Pages
-+ Add Index.html to deploy
++ Add Index.html to deploy 
